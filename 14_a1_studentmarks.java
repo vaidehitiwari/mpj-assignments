@@ -36,7 +36,7 @@ class Student {
             grade = 'C';
 
         studentCount++;
-        sc.nextLine(); // clear buffer
+        sc.nextLine(); 
     }
 
     void display() {
